@@ -1,0 +1,15 @@
+pyyaml
+pymysql
+peewee
+flask
+ansi2html
+gunicorn
+pytest-flask
+
+keyring
+
+oda-knowledge-base==0.6.9
+
+Flask-JWT
+
+jsonschema
